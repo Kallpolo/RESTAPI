@@ -1,1 +1,0 @@
-{"status":true,"name":"Cek Rekening Bank dan Ewallet","author":"Kallpolo","endpoint":[{"name":"List Ewallet","method":"GET","url":"/api/list-ewallet"},{"name":"List Bank","method":"GET","url":"/api/list-bank"},{"name":"Cek Rekening","method":"GET","url":"/api/cek-rekening","query":"?id=DANA&number=081234567890"}]}
